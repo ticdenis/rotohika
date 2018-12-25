@@ -1,0 +1,9 @@
+.Title {
+  margin: 0;
+  padding: .25rem 1rem;
+  font-size: 1.2em;
+  min-width: 10rem;
+  min-height: 2rem;
+  color: #fff;
+  background-color: #ccc;
+}
